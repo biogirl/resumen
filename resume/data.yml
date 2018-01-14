@@ -1,0 +1,111 @@
+/* #*/ export const PERSON = `
+name:
+  first: Yenifer
+  middle:
+  last: Ochoa
+about: Tengo habilidades interpersonales como la  cortesía y 
+  empatía, que me permiten ofrecer una excelente atención al cliente. 
+  Adicionalmente, muestro ser colaboradora, consecuente y correcta con mi equipo de trabajo. 
+quote: “El mejor recurso de un negocio son sus clientes, porque sin clientes no hay negocio”
+position: Cajera 
+
+birth:
+  year: 1990
+  location: New York
+
+experience:
+- company: Restaurante Delicias de Mamá
+  position: Mesera
+  timeperiod: seis meses; 2017
+  description: Atención al cliente. Servicio de mesa.
+- company: Heladeria Bacci & Cream
+  position: Cajera
+  timeperiod: un año y nueve meses; 2013-2015 
+  description: Atención al cliente. Facturación y cierre de caja
+- company: Heladeria Poppa 
+  position: Cajera
+  timeperiod: dos años; 2011-2013
+  description: Atención al cliente.  Facturación y cierre de caja
+
+education:
+- degree: Licenciada en Educación
+  timeperiod: Mención Biologia. 2014
+  description: Universidad de Carabobo
+
+#- degree: Bachelor of Science
+#  timeperiod: March 2009 - December 2011
+#  description: Major in Engineering, University B, Los Angeles, USA.
+
+# skill level goes 0 to 100
+skills:
+- name: Tipos de Servicio
+  level: 99
+  icon: fa fa-coffee
+- name: Aseo e Higiene
+  level: 90
+  icon: fa fa-shower
+
+- name: Manejo de Comanda
+  level: 93
+  icon: fa fa-sticky-note-o
+- name: Control y facturación
+  level: 90
+  icon: fa fa-credit-card
+
+- name: Primeros Auxilos
+  level: 97
+  icon: fa fa-medkit
+- name: Protocolo de Servicio
+  level: 95
+  icon: fa fa-cutlery
+
+#- name: React
+#  level: 80
+#  icon: fa fa-code
+#- name: Angular 2
+#  level: 80
+#  icon: fa fa-code
+
+#- name: Ingles
+#  level: 80
+#  icon: fa fa-language
+#- name: Git
+#  level: 80
+#  icon: fa fa-git
+#- name: Linux
+#  level: 80
+#  icon: fa fa-linux
+knowledge: "Manejo y destrezas en:"
+
+attitudes:
+- name: Cordial
+  icon: fa fa-handshake-o
+- name: Discreta
+  icon: fa fa-user-secret 
+- name: Diligente
+  icon: fa fa-cogs
+- name: Educada
+  icon: fa fa-graduation-cap
+- name: Puntual
+  icon: fa fa-clock-o
+
+hobbies:
+- name: Lectura de Novelas
+  icon: fa fa-leanpub
+#- name: Leer Novelas
+#  icon: fa fa-book
+- name: Septimo Arte
+  icon: fa fa-film
+- name: Trabajo Voluntario
+  icon: fa fa-life-ring
+
+contact:
+  email: yenifere.ochoa@gmail.com
+  phone: 305 709 9141
+  street: Cra. 49a Nro. 128c - 52, Prado Veraniego
+  city: Bogotá, Colombia
+#  website: magdielikari.github.io
+#  github: magdielikari
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
+lang: es
+`
